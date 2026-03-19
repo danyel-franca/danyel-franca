@@ -79,9 +79,3 @@ Conquistar minha primeira oportunidade como estagiário em tecnologia, contribui
 <p align="center">
   📧 danyelfranca.vasco@gmail.com
 </p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,100:43185c&height=120&section=footer"/>
-</p>
