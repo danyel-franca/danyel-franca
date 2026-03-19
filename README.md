@@ -70,9 +70,7 @@ Atualmente focado em:
 
 ## 🎯 Objetivo
 
-Conquistar minha primeira oportunidade como estagiário em tecnologia, contribuindo com projetos reais e evoluindo em ambientes de alto nível.
-
----
+Atuar em projetos desafiadores na área de tecnologia, contribuindo com soluções eficientes enquanto evoluo tecnicamente e amplio minha capacidade de gerar valor em ambientes de alto desempenho.
 
 ## 📫 Contato
 
