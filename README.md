@@ -1,16 +1,87 @@
-## Hi there 👋
+<h1 align="center">Danyel França</h1>
 
-<!--
-**danyel-franca/danyel-franca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=28&center=true&vCenter=true&width=600&lines=Desenvolvedor+em+formação;Construindo+soluções+reais;Foco+em+evolução+constante" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <strong>Transformando aprendizado em soluções reais através da tecnologia</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mim
+
+Tenho 18 anos e estou construindo minha trajetória na tecnologia com foco em evolução acelerada, prática constante e geração de valor.
+
+Não me limito ao aprendizado teórico, busco desenvolver soluções reais, entender problemas e criar sistemas que façam sentido na prática.
+
+---
+
+## 🧠 Mentalidade
+
+- Evolução constante como padrão  
+- Código limpo, organizado e escalável  
+- Aprendizado orientado à prática  
+- Foco em resolver problemas reais  
+
+---
+
+## ⚡ Stack principal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,angular,django,html,css,bootstrap,mysql" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=danyel-franca&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyel-franca&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 Projeto em destaque
+
+### 💸 Cashlyo (em desenvolvimento)
+
+Sistema de gestão financeira com foco em clareza, controle e organização.
+
+**Principais ideias:**
+- Controle de entradas e saídas  
+- Dashboard com visualização de dados  
+- Interface simples e eficiente  
+
+---
+
+## 🚧 Em evolução
+
+Atualmente focado em:
+
+- Desenvolvimento Fullstack  
+- Arquitetura de sistemas  
+- Boas práticas de código  
+- Projetos com visão de produto  
+
+---
+
+## 🎯 Objetivo
+
+Conquistar minha primeira oportunidade como estagiário em tecnologia, contribuindo com projetos reais e evoluindo em ambientes de alto nível.
+
+---
+
+## 📫 Contato
+
+<p align="center">
+  📧 danyelfranca.vasco@gmail.com
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,100:43185c&height=120&section=footer"/>
+</p>
