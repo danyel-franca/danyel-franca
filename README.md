@@ -16,10 +16,6 @@ Tenho 18 anos e estou construindo minha trajetória na tecnologia com foco em ev
 
 Não me limito ao aprendizado teórico, busco desenvolver soluções reais, entender problemas e criar sistemas que façam sentido na prática.
 
----
-
-## 🧠 Mentalidade
-
 - Evolução constante como padrão  
 - Código limpo, organizado e escalável  
 - Aprendizado orientado à prática  
