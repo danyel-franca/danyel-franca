@@ -1,28 +1,28 @@
 # <h1 align="center">Danyel França</h1>
 
 <p align="center">
-  <strong>Transformando aprendizado em soluções reais através da tecnologia, prática e evolução constante.</strong>
+  <strong>Transforming learning into real solutions through technology, practice, and continuous growth.</strong>
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About Me
 
-Tenho 18 anos e atualmente estou focado em me tornar um desenvolvedor fullstack cada vez mais sólido através de prática constante, projetos reais e evolução contínua.
+I am 18 years old and currently focused on becoming a stronger fullstack developer through consistent practice, real-world projects, and continuous improvement.
 
-Gosto de desenvolver sistemas que vão além da teoria, projetos que resolvem problemas reais, melhoram a experiência do usuário e fortalecem minha visão sobre desenvolvimento de software.
+I enjoy building systems that go beyond theory — projects that solve real problems, improve user experience, and strengthen my understanding of software development.
 
-O que me move:
+What drives me:
 
-* Projetos reais acima de tutoriais repetitivos
-* Código limpo e organizado
-* Mentalidade de aprendizado contínuo
-* Construção de soluções úteis e escaláveis
-* Crescimento constante na área de tecnologia
+* Real projects over repetitive tutorials
+* Clean and organized code
+* A continuous learning mindset
+* Building useful and scalable solutions
+* Constant growth in technology
 
 ---
 
-## ⚡ Stack Principal
+## ⚡ Main Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,angular,django,html,css,bootstrap,mysql,sqlite" />
@@ -30,68 +30,68 @@ O que me move:
 
 ---
 
-## 🧠 Atualmente estudando
+## 🧠 Currently Learning
 
-* Desenvolvimento Fullstack
-* Desenvolvimento Backend com Node.js
-* Criação de APIs REST
-* Clean Code e organização de software
+* Fullstack Development
+* Backend Development with Node.js
+* REST API Development
+* Clean Code and software architecture
 
 ---
 
-## 🔥 Projeto em destaque
+## 🔥 Featured Project
 
 ### 💸 Cashlyo
 
-Sistema de gestão financeira focado em simplicidade, organização e usabilidade.
+Financial management system focused on simplicity, organization, and usability.
 
-#### Principais funcionalidades:
+#### Main Features:
 
-* Controle de entradas e saídas
-* Dashboard financeiro
-* Organização de transações
-* Interface moderna e intuitiva
+* Income and expense tracking
+* Financial dashboard
+* Transaction organization
+* Modern and intuitive interface
 
-#### Tecnologias:
+#### Technologies:
 
 * Angular
 * TypeScript
 * Bootstrap
-* REST API integration
+* REST API Integration
 
 ---
 
-## 📌 Outros projetos
+## 📌 Other Projects
 
 ### 🔐 Python Auth CLI
 
-Sistema de autenticação desenvolvido com Python, SQLite e bcrypt.
+Authentication system built with Python, SQLite, and bcrypt.
 
-* Cadastro e login de usuários
-* Criptografia de senhas com bcrypt
-* Integração com SQLite
-* Estrutura backend organizada
+* User registration and login
+* Password hashing with bcrypt
+* SQLite integration
+* Organized backend structure
 
 ---
 
 ### 🔒 Text Encryptor CLI
 
-Ferramenta de criptografia de texto via terminal desenvolvida em Python.
+Command-line text encryption tool developed with Python.
 
-* Cifra de César
-* Inversão de texto
-* Substituição de caracteres
-* Manipulação de arquivos
-
----
-
-## 🎯 Objetivo
-
-Meu objetivo é atuar em projetos desafiadores, evoluir tecnicamente e contribuir com soluções reais enquanto continuo desenvolvendo minhas habilidades como engenheiro de software.
+* Caesar cipher
+* Text reversal
+* Character substitution
+* File manipulation
 
 ---
 
-## 📫 Contato
+## 🎯 Goal
+
+My goal is to work on challenging projects, evolve technically, and contribute with real solutions while continuing to develop my skills as a software engineer.
+
+---
+
+## 📫 Contact
 
 <p align="center">
   📧 <strong>danyelfranca.vasco@gmail.com</strong>
@@ -109,5 +109,5 @@ Meu objetivo é atuar em projetos desafiadores, evoluir tecnicamente e contribui
 ---
 
 <p align="center">
-  <i>"Evolução constante gera resultados."</i>
+  <i>"Consistent growth creates results."</i>
 </p>
