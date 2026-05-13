@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 Sobre mim
 
 Tenho 18 anos e atualmente estou focado em me tornar um desenvolvedor fullstack cada vez mais sólido através de prática constante, projetos reais e evolução contínua.
 
