@@ -32,10 +32,6 @@ O que me move:
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,angular,django,html,css,bootstrap,mysql,sqlite" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,angular,django,html,css,bootstrap,mysql,sqlite" />
-</p>
-
 ---
 
 ## 🧠 Atualmente estudando
