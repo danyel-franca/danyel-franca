@@ -10,7 +10,7 @@
 
 I am 18 years old and currently focused on becoming a stronger fullstack developer through consistent practice, real-world projects, and continuous improvement.
 
-I enjoy building systems that go beyond theory — projects that solve real problems, improve user experience, and strengthen my understanding of software development.
+I enjoy building systems that go beyond theory projects that solve real problems, improve user experience, and strengthen my understanding of software development.
 
 What drives me:
 
