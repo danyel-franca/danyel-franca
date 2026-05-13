@@ -10,7 +10,7 @@
 
 Tenho 18 anos e atualmente estou focado em me tornar um desenvolvedor fullstack cada vez mais sólido através de prática constante, projetos reais e evolução contínua.
 
-Gosto de desenvolver sistemas que vão além da teoria — projetos que resolvem problemas reais, melhoram a experiência do usuário e fortalecem minha visão sobre desenvolvimento de software.
+Gosto de desenvolver sistemas que vão além da teoria, projetos que resolvem problemas reais, melhoram a experiência do usuário e fortalecem minha visão sobre desenvolvimento de software.
 
 O que me move:
 
