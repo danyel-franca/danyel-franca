@@ -33,11 +33,9 @@ O que me move:
 ## 🧠 Atualmente estudando
 
 * Desenvolvimento Fullstack
-* Arquitetura Backend
-* Sistemas de autenticação
-* APIs e bancos de dados
+* Desenvolvimento Backend com Node.js
+* Criação de APIs REST
 * Clean Code e organização de software
-* Interfaces responsivas
 
 ---
 
