@@ -1,10 +1,6 @@
 # <h1 align="center">Danyel França</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=28&center=true&vCenter=true&width=700&lines=Fullstack+Developer+in+Progress;Building+Real+Projects;Focused+on+Growth+and+Problem+Solving" />
-</p>
-
-<p align="center">
   <strong>Transformando aprendizado em soluções reais através da tecnologia, prática e evolução constante.</strong>
 </p>
 
