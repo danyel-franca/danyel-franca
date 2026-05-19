@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I am 18 years old and currently focused on becoming a stronger fullstack developer through consistent practice, real-world projects, and continuous improvement.
 
@@ -22,7 +22,7 @@ What drives me:
 
 ---
 
-## ⚡ Main Stack
+## Main Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,angular,django,html,css,bootstrap,mysql,sqlite" />
@@ -30,7 +30,7 @@ What drives me:
 
 ---
 
-## 🧠 Currently Learning
+## Currently Learning
 
 * Fullstack Development
 * Backend Development with Node.js
@@ -39,9 +39,9 @@ What drives me:
 
 ---
 
-## 🔥 Featured Project
+## Featured Project
 
-### 💸 Cashlyo
+### Cashlyo
 
 Financial management system focused on simplicity, organization, and usability.
 
@@ -61,9 +61,9 @@ Financial management system focused on simplicity, organization, and usability.
 
 ---
 
-## 📌 Other Projects
+## Other Projects
 
-### 🔐 Python Auth CLI
+### Python Auth CLI
 
 Authentication system built with Python, SQLite, and bcrypt.
 
@@ -74,7 +74,7 @@ Authentication system built with Python, SQLite, and bcrypt.
 
 ---
 
-### 🔒 Text Encryptor CLI
+### Text Encryptor CLI
 
 Command-line text encryption tool developed with Python.
 
@@ -85,13 +85,13 @@ Command-line text encryption tool developed with Python.
 
 ---
 
-## 🎯 Goal
+## Goal
 
 My goal is to work on challenging projects, evolve technically, and contribute with real solutions while continuing to develop my skills as a software engineer.
 
 ---
 
-## 📫 Contact
+## Contact
 
 <p align="center">
   📧 <strong>danyelfranca.vasco@gmail.com</strong>
