@@ -57,6 +57,7 @@ Financial management system focused on simplicity, organization, and usability.
 * Angular
 * TypeScript
 * Bootstrap
+* Node.js
 * REST API Integration
 
 ---
