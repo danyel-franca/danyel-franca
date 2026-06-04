@@ -1,7 +1,7 @@
 # <h1 align="center">Danyel França</h1>
 
 <p align="center">
-  <strong>Computer Science Student | Fullstack Developer in Progress</strong>
+  <strong>Fullstack Developer</strong>
 </p>
 
 <p align="center">
