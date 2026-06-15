@@ -12,7 +12,7 @@
 
 ## About Me
 
-- Computer Science Student
+- student of systems analysis and development
 - Focused on Fullstack Development
 - Building practical projects to strengthen my skills
 - Interested in Backend Development, APIs, and Software Architecture
@@ -31,6 +31,7 @@
 ## Currently Learning
 
 - Node.js
+- Spring Boot
 - REST APIs
 - Software Architecture
 - Clean Code
