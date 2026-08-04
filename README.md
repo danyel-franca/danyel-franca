@@ -1,11 +1,11 @@
 # <h1 align="center">Danyel França</h1>
 
 <p align="center">
-  <strong>Fullstack Developer</strong>
+  <strong>Full Stack Developer | Java & Angular</strong>
 </p>
 
 <p align="center">
-  Passionate about building real-world applications and continuously improving my software development skills.
+  Passionate about building real-world applications and continuously improving through practical projects and software development.
 </p>
 
 ---
@@ -13,9 +13,9 @@
 ## About Me
 
 - Systems Analysis and Development Student
-- Focused on Fullstack Development
+- Focused on Full Stack Development
 - Building practical projects to strengthen my skills
-- Interested in Backend Development, APIs, and Software Architecture
+- Focused on Backend Development, REST APIs, and Software Architecture
 - Always learning and improving through hands-on experience
 
 ---
@@ -23,29 +23,30 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,angular,django,nodejs,html,css,bootstrap,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,angular,django,nodejs,html,css,bootstrap,mysql,sqlite,git" />
 </p>
 
 ---
 
 ## Currently Learning
 
-- Node.js
 - Spring Boot
-- REST APIs
+- Node.js
 - Software Architecture
+- Design Patterns
 - Clean Code
-- Fullstack Development
 
 ---
 
 ## Featured Projects
 
-- Cashlyo
-- Java Socket Chat
-- Java Order Management System
-- Python Auth CLI
-- Harry Potter Books App
+| Project | Description | Technologies |
+|----------|-------------|--------------|
+| **Cashlyo** | Financial management web application | Angular • TypeScript • REST API |
+| **Java Socket Chat** | Real-time client-server chat application | Java • Socket Programming • Multithreading |
+| **Java Order Management System** | Order management system using object-oriented programming | Java • OOP |
+| **Hibernet System** | Student management system with data persistence using JPA and Hibernate | Java • JPA • Hibernate • MySQL |
+| **Python Auth CLI** | Authentication system with password hashing | Python • SQLite • bcrypt |
 
 ---
 
@@ -67,5 +68,5 @@
 ---
 
 <p align="center">
-  <i>"Consistent growth creates results."</i>
+  <i>"Learning by building."</i>
 </p>
