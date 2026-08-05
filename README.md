@@ -31,7 +31,7 @@
 
 - Spring Boot
 - Node.js
-- Software Architecture
+- AWS
 - Design Patterns
 - Clean Code
 
