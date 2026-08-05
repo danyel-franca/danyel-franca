@@ -14,8 +14,7 @@
 
 - Systems Analysis and Development Student
 - Focused on Full Stack Development
-- Building practical projects to strengthen my skills
-- Focused on Backend Development, REST APIs, and Software Architecture
+- Focused on backend development lately, REST APIs, and Software Architecture
 - Always learning and improving through hands-on experience
 
 ---
