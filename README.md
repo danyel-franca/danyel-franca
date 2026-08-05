@@ -1,7 +1,7 @@
 # <h1 align="center">Danyel França</h1>
 
 <p align="center">
-  <strong>Full Stack Developer | Java & Angular</strong>
+  <strong>Full Stack Developer</strong>
 </p>
 
 <p align="center">
