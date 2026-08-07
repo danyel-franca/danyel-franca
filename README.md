@@ -30,7 +30,7 @@
 ## Currently Learning
 
 - Spring Boot
-- Node.js
+- React Native
 - AWS
 - Design Patterns
 - Clean Code
