@@ -52,7 +52,7 @@
 ## Contact
 
 <p align="center">
-  📧 <strong>danyelfranca.vasco@gmail.com</strong>
+  📧 <strong>danyel.fbg@gmail.com</strong>
 </p>
 
 <p align="center">
